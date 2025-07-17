@@ -8,7 +8,7 @@ To learn more about TechShop and see a walkthrough of its features, watch docume
 
 ### Watch the TechShop App Documentary Video
 
-[![alt text](https://github.com/user-attachments/assets/82eb2ed8-def3-47cb-8513-0d89697ac333)](https://www.youtube.com/watch?v=k8or1-cJJ4Q)
+[![alt text](https://github.com/user-attachments/assets/82eb2ed8-def3-47cb-8513-0d89697ac333)](https://youtu.be/uId7jqd2MWU)
 
 
 ## Features
